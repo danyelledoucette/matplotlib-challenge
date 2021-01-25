@@ -1,8 +1,8 @@
-# matplotlib-challenge
-Matplotlib - The Power of Plots
-
 # Pymaceuticals Inc.
 ---
+
+# matplotlib-challenge
+Matplotlib - The Power of Plots
 
 ### Observations and Insights
 - There seems to be a strong correlation between mouse weight and tumor volume size (0.84). This indicates that as one increases the other does as well.
